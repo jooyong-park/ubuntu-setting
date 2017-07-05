@@ -2,7 +2,7 @@ cgroup-util 설치 방법
 =====================
 
 1.	cgroup-util 지원 사양
-2.	커널 버전 4.6.x 업그레이드 하기
+2.	커널 버전 4.8.x 업그레이드 하기
 3.	python pip 설치 환경 설정 하기
 4.	cgroup-util 설치
 
@@ -10,7 +10,7 @@ cgroup-util 설치 방법
 
 ##### Supported Linux Version
 
--	4.6.y
+-	4.8.y
 
 	##### Supported Python
 
@@ -20,7 +20,7 @@ cgroup-util 설치 방법
 
 	-	3.0 to 3.3 may work but not tested
 
-#### 2. 커널 버전 4.6.x 업그레이드 하기
+#### 2. 커널 버전 4.8.x 업그레이드 하기
 
 우분투 16.04버전의 커널 버전 업그레이드 방법 - 우분투 16.04 데스크탑 버전
 
